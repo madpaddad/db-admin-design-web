@@ -10,7 +10,7 @@ Our Project was intended to make into 2 types of role but given a short period o
 
 # What we learn
 
-We have some basic understanding on component, managing state, and dataflow from api. 
+We have some basic understanding on component, managing state, and dataflow from api. We hope that this small project will help new coder to understand how software work.
 
 # Getting start:
 
