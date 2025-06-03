@@ -17,6 +17,7 @@ We have some basic understanding on component, managing state, and dataflow from
 Before starting our web projct, we had also build an api on db-admin-design-api. We hope that you had finished the api built.
 
 ```
+cp .env.example .env
 npm install
 npm run dev
 ```
