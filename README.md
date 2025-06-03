@@ -1,12 +1,26 @@
-# React + Vite
+# Learn to CODE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web project was our first time coding, but we worked on it and learn how to implement it with react. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Issue
 
-## Expanding the ESLint configuration
+The UI does not look up to date much but we hope that it stills have an impact on user experience on the good side. 
+Our Project was intended to make into 2 types of role but given a short period of time. We couldn't accomplish much. 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# What we learn
+
+We have some basic understanding on component, managing state, and dataflow from api. 
+
+# Getting start:
+
+Before starting our web projct, we had also build an api on db-admin-design-api. We hope that you had finished the api built.
+
+```
+npm install
+npm run dev
+```
+
+
+Thank you for a short visit.
+We hope to bring you more future projects.
